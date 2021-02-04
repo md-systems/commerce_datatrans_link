@@ -1,0 +1,2 @@
+commerce_payment.commerce_payment_gateway.plugin.datatrans_link:
+  type: commerce_payment.commerce_payment_gateway.plugin.datatrans

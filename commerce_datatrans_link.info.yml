@@ -1,0 +1,7 @@
+name: Commerce Datatrans Link
+type: module
+description: 'Provides payment gateway for Datatrans that can be used as a manual payment.'
+package: Commerce
+core_version_requirement: ^8.7.7 || ^9
+dependencies:
+  - commerce_datatrans:commerce_datatrans
